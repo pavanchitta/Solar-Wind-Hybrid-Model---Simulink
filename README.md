@@ -1,1 +1,3 @@
 # Solar-Wind-Hybrid-Model---Simulink
+
+The study investigated the viability of using hybrid models of renewable power generation in certain geographical areas where the climate is suitable. A real model of the set-up was created and the data obtained was compared to simulated models to improve accuracy. The data from both the real set-up and the simulated model were then compared to climatic conditions in certain rural areas of India. Normally, Wind energy is not used in India; this project aims to conclude whether such non-utilisation is justifies or whether it would be beneficial if such hybrid models be used in certain areas of suitable conditions.
